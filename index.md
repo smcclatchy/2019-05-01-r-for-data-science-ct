@@ -5,7 +5,7 @@ venue: "R for Data Science"
 address: "UCHC Center for Quantitative Medicine, 195 Farmington Ave, Farmington CT"
 country: "us"
 language: "en"
-latlng: "FIXME"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
+latlng: "41.7382143,-72.7936254"
 humandate: "Wednesdays from May 1 - June 12, 2019"
 humantime: "9:00 am - 12:30 pm"
 startdate: 2019-05-01
@@ -55,7 +55,7 @@ INTRODUCTION
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
-This intermediate R series follows R for Data Science by Hadley Wickham and Garrett Grolemund of RStudio. This series will teach you how to do data science with R. You’ll learn how to transform, visualize and model your data. You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. If you have already taken our R for Reproducible Scientific Analysis workshop, you meet the prerequisite for this course.
+This intermediate R series follows _R for Data Science_ by Hadley Wickham and Garrett Grolemund of RStudio. This series will teach you how to do data science with R. You’ll learn how to transform, visualize and model your data. You’ll learn how to use the grammar of graphics, literate programming, and reproducible research to save time. If you have already taken our R for Reproducible Scientific Analysis workshop, you meet the prerequisite for this course.
 
 {% comment %}
 AUDIENCE
