@@ -264,6 +264,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 </table>
 </div>
 </div>
+<div class="row">
 <div class="col-md-6">
 <h3>Wednesday, June 12</h3>
 <table class="table table-striped">
@@ -317,13 +318,19 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 <h2 id="syllabus">Syllabus</h2>
 
-{% if page.carpentry == "swc" %}
-{% include sc/syllabus.html %}
-{% elsif page.carpentry == "dc" %}
-{% include dc/syllabus.html %}
-{% elsif page.carpentry == "lc" %}
-{% include lc/syllabus.html %}
-{% endif %}
+<div class="row">
+<div class="col-md-6">
+<h3 id="syllabus-r">Data Science in R</h3>
+<ul>
+<li>Reading and Plotting Data</li>
+<li>Creating New Variables and Summaries</li>
+<li>Generating Questions and Insights from Data</li>
+<li>Working with Vectors and Tibbles</li>
+<li>Working with Different Data Types</li>
+<li>Building Models</li>
+<li><a href="https://r4ds.had.co.nz/index.html">Reference...</a></li>
+</ul>
+</div>
 
 <hr/>
 
