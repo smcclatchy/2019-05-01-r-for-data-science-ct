@@ -331,6 +331,7 @@ please preview your site before committing, and make sure to run
 <li><a href="https://r4ds.had.co.nz/index.html">Reference...</a></li>
 </ul>
 </div>
+</div>
 
 <hr/>
 
