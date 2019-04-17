@@ -63,7 +63,7 @@ AUDIENCE
 Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
 {% endcomment %}
-This series is open to those from UCHC, UConn, and JAX who meet the prerequisite for competence with R (see above).
+This series is open to those from UCHC, UConn, and JAX who meet the prerequisite for competence with R.
 
 {% comment %}
 LOCATION
