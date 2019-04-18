@@ -10,7 +10,7 @@ humandate: "Wednesdays from May 1 - June 12, 2019"
 humantime: "9:00 am - 12:30 pm"
 startdate: 2019-05-01
 enddate:  2019-06-12
-instructor: ["Harshpreet Chandok", "Sue McClatchy", "Samir Amin", "Ravi Pandey", "Lucas Lochovsky"]
+instructor: ["Harshpreet Chandok", "Sue McClatchy", "Samir Amin", "Preeti Bais", "Ravi Pandey", "Lucas Lochovsky"]
 helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
