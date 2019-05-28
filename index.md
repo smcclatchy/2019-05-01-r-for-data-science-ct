@@ -11,7 +11,7 @@ humantime: "9:00 am - 12:30 pm"
 startdate: 2019-05-01
 enddate:  2019-06-12
 instructor: ["Harshpreet Chandok", "Sue McClatchy", "Neil Kindlon", "Samir Amin", "Preeti Bais", "Ravi Pandey", "Pariksheet Nanda", "Lucas Lochovsky"]
-helper: [""]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Annat Haber"]  
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:  https://pad.carpentries.org/2019-05-01-r-for-data-science-ct
 eventbrite: 60535875433
